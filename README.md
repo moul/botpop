@@ -1,5 +1,7 @@
 # botpop
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/botpop.svg)](https://www.guardrails.io)
+
 ## Usage
 
 Simply change in the code the channels / server (2 examples provided with the executable)
